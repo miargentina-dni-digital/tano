@@ -1,8 +1,8 @@
 {
   "name": "Mi Argentina",
   "short_name": "Mi Argentina",
-  "start_url": "/maty-t/",
-  "scope": "/maty-t/",
+  "start_url": "/tano/",
+  "scope": "/tano/",
   "display": "standalone",
   "background_color": "#3630ba",
   "theme_color": "#3630ba",
